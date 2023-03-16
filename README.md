@@ -1,16 +1,24 @@
 ### Hi there, I'm Randy! 👋
 
-For over a years in web development, I have developed an app/ web app from small to large-scale projects, from easy to hard concepts and from specific scripting language to mixed languages. I am proudly offering my set of skills, knowledge, and ability to any of my clients that I can assure they will be happy at the end of the day.
-Thank you for reading my short and direct overview. Hope yo work with you.
+I am a developer focused on providing highly quality software solutions.
 
-Be glad to work with...
+🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
+- Full Stack Developer (WEB Applications and websites)
+- Mobile App Developer (Ionic Angular/React and React native)
+- Databases (mongodb, MySQL, Postgresql, and SQL Server)
+- E-Commerce Developer: Magento 1, Magento 2 and Shopify
+- Backend Scripting: PHP and nodejs
+- Web Applications Security checks, and perform advanced security tests (Penetration tester)
+- Expert PHP Developer
+- Experienced PHP Laravel developer
 
-Angular, Angular CLI, React, React Native, Ionic, NodeJS, Laravel, Codeigniter, M1 and M2, Shopify, Shopify plus and Custom Scripts
+🌱 I’m currently learning ...
 
-- 🌱 I’m currently learning ...
+- Blockchain
+- Hyperledger
+- python
+- Flutter
 
-Blockchain
-
+I am ready to take on new experiences and to engage in serious works.
 
